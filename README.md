@@ -37,3 +37,5 @@ WHERE
 - BETA indicates the value of beta in order to implement MetropolisHastings algorithm.
 - PI indicates the value of pi in order to implement MetropolisHastings algoritm.
 ```
+
+For more information, visit project description and report.
